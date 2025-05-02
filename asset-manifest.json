@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/https//:ashley0601.github.io/Navbar/static/css/main.f6568de4.css",
-    "main.js": "/https//:ashley0601.github.io/Navbar/static/js/main.1fd8799f.js",
-    "static/js/453.69f3745b.chunk.js": "/https//:ashley0601.github.io/Navbar/static/js/453.69f3745b.chunk.js",
-    "static/media/ash_bg.png": "/https//:ashley0601.github.io/Navbar/static/media/ash_bg.3692c41c69fdd6fd1a0d.png",
-    "index.html": "/https//:ashley0601.github.io/Navbar/index.html",
-    "main.f6568de4.css.map": "/https//:ashley0601.github.io/Navbar/static/css/main.f6568de4.css.map",
-    "main.1fd8799f.js.map": "/https//:ashley0601.github.io/Navbar/static/js/main.1fd8799f.js.map",
-    "453.69f3745b.chunk.js.map": "/https//:ashley0601.github.io/Navbar/static/js/453.69f3745b.chunk.js.map"
+    "main.css": "/Navbar/static/css/main.f6568de4.css",
+    "main.js": "/Navbar/static/js/main.ff74a4a7.js",
+    "static/js/453.69f3745b.chunk.js": "/Navbar/static/js/453.69f3745b.chunk.js",
+    "static/media/ash_bg.png": "/Navbar/static/media/ash_bg.3692c41c69fdd6fd1a0d.png",
+    "index.html": "/Navbar/index.html",
+    "main.f6568de4.css.map": "/Navbar/static/css/main.f6568de4.css.map",
+    "main.ff74a4a7.js.map": "/Navbar/static/js/main.ff74a4a7.js.map",
+    "453.69f3745b.chunk.js.map": "/Navbar/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6568de4.css",
-    "static/js/main.1fd8799f.js"
+    "static/js/main.ff74a4a7.js"
   ]
 }
