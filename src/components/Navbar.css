@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #240b1a;
+    padding: 1rem 5rem;
+  }
+  
+  .logo {
+    color: rgb(212, 89, 161);
+    font-size: 20px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .nav-links a.active {
+    border-bottom: 2px solid rgb(201, 24, 148);
+  }
+  
